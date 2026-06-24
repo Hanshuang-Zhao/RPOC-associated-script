@@ -1,0 +1,16 @@
+Group	Treatment	RPOC
+Axenic	Control	35.76642336
+Axenic	Control	36.41304348
+Axenic	Inoculated	15
+Axenic	Inoculated	9.965034965
+Axenic	Inoculated	13.80966677
+POC30	Control	34.47580645
+POC30	Control	31.39097744
+POC30	Inoculated	18.04511278
+POC30	Inoculated	14.4
+POC30	Inoculated	15.38461538
+POC720	Control	56.10687023
+POC720	Control	48.84896126
+POC720	Inoculated	28.98550725
+POC720	Inoculated	21.72995781
+POC720	Inoculated	28.50241546
