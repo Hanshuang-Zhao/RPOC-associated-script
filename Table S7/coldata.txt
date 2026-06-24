@@ -1,0 +1,16 @@
+sample	time
+Rep.1.0d	1
+Rep.2.0d	1
+Rep.3.0d	1
+Rep.1.9d	2
+Rep.2.9d	2
+Rep.3.9d	2
+Rep.1.70d	3
+Rep.2.70d	3
+Rep.3.70d	3
+Rep.1.450d	4
+Rep.2.450d	4
+Rep.3.450d	4
+Rep.1.720d	5
+Rep.2.720d	5
+Rep.3.720d	5
