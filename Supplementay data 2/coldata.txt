@@ -1,0 +1,16 @@
+sample	time
+coculture_1_0d	1
+coculture_2_0d	1
+coculture_3_0d	1
+coculture_1_9d	2
+coculture_2_9d	2
+coculture_3_9d	2
+coculture_1_70d	3
+coculture_2_70d	3
+coculture_3_70d	3
+coculture_1_450d	4
+coculture_2_450d	4
+coculture_3_450d	4
+coculture_1_720d	5
+coculture_2_720d	5
+coculture_3_720d	5
